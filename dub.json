@@ -1,8 +1,10 @@
 {
-	"name" : "MinHookD",
+	"name" : "minhook-d",
 	"description" : "MinHook Wrapper for D.",
 	"license" : "apache-2.0",
-	"targetType" : "sourceLibrary",
-	"homepage" : "",
-	"authors" : ["chen3"]
+	"targetType" : "library",
+	"homepage" : "https://github.com/chen3/MinHookD",
+	"authors" : ["chen3"],
+	"copyFiles" : ["public/x86/MinHook.x86.dll",
+	               "public/x64/MinHook.x64.dll"]
 }
