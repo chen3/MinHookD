@@ -9,4 +9,5 @@ public
     └───x86
             MinHook.lib
             MinHook.x86.dll
+src
 ```
