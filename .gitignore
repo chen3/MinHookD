@@ -1,3 +1,7 @@
+# DDT project file
+/.project
+/.settings
+
 # Compiled Object files
 *.o
 *.obj

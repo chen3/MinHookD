@@ -1,0 +1,8 @@
+{
+	"name" : "MinHookD",
+	"description" : "MinHook Wrapper for D.",
+	"license" : "apache-2.0",
+	"targetType" : "sourceLibrary",
+	"homepage" : "",
+	"authors" : ["chen3"]
+}
